@@ -42,6 +42,9 @@ const restaurant = {
     console.log(orderIngredient);
   },
 };
+
+//Short Cỉcuiting (&& and ||)
+
 console.log("-------OR---------");
 //Use ANY data type, return ANY data type, short-ciruiting
 console.log(3 || "Jonas");
